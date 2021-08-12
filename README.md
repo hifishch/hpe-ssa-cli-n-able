@@ -1,4 +1,4 @@
-# HPE SSA CLI LD- and SSD- Status for SolarWinds N-able™ RMM
+# HPE SSA CLI LD- and SSD- Status for N-able™ RMM
 Requires installed HPE SSA CLI: https://support.hpe.com/hpesc/public/swd/detail?swItemId=MTX_1d00dad72f544c5db131a7a5e4&swEnvOid=2000151
 
 Supports Monitoring of HPE Smart Array Controllers without iLO. (Eg. some HPE MicroServers)
