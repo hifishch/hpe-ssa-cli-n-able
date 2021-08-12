@@ -1,7 +1,7 @@
-﻿#Powershell HPE SSA CLI for Solarwinds RMM
+﻿#Powershell HPE SSA CLI for N-able RMM
 #Author: Andreas Walker andreas.walker@walkerit.ch
 #Licence: GNU General Public License v3.0
-#Version: 1.0.0 / 04.04.2021
+#Version: 1.0.1 / 12.08.2021
 
 #Define paremeter
 Param (
